@@ -23,18 +23,10 @@ Estou construindo uma base sólida em **Python e SQL**, com foco em extração i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 📊 Estatísticas de Estudo e Contribuição
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
-
 ---
-
 ## 📬 Vamos conversar?
 
 Estou em busca de conexões, mentorias e oportunidades no mercado de dados. Se quiser trocar uma ideia sobre projetos ou tecnologia, é só chamar!
 
 *   💼 **LinkedIn:** (https://www.linkedin.com/in/gabriel-festa-b519a740b/)
 *   📧 **E-mail:** (:gfesta130@gmail.com)
-*   
